@@ -1,2 +1,2 @@
-# TSMPND
-A Time-series Multi-Modal Pulmonary Nodule Dataset called TSMPND for Longitudinal Medical Image Analysis
+# A Dual-Stream Siamese Network with Parameterized Gompertz Guidance for Lung Cancer Growth Trend Prediction
+The code of DsSNet.
